@@ -21,7 +21,7 @@ const content = [
 export default function App() {
   return (
     <div>
-      <div>learn react</div>
+      <div>Learn React</div>
       <Tabbed content={content} />
     </div>
   );
